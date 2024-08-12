@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pramod1605
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Advance Java And Javascript
-- 💞️ I’m looking to collaborate on  Java Full stack Development 
 - 📫 How to reach me LinkedIn -https://www.linkedin.com/in/Pramod-patil-199027225
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: completed 100+ coding challenges on platforms like LeetCode and HackerRank.

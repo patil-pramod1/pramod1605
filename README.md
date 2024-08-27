@@ -35,8 +35,8 @@ Feel free to explore my repositories and connect with me! 😊
   
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pramodp1605&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pramodp1605&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 20px;" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pramod1605&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pramod1605&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 20px;" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramodp1605&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
 </div>
 
